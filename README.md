@@ -1,5 +1,7 @@
 # Gestionnaire de livres
 
+![manage-books](https://github.com/shompoth/Manage-books/blob/main/src/assets/img/screenshot-manage-books.png)
+
 Ce projet est un gestionnaire de livres.
 
 ## Fonctionnalités :
