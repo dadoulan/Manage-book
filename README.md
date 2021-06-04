@@ -5,7 +5,7 @@
 Ce projet est un gestionnaire de livres.
 
 ## Fonctionnalités :
-- Ajouter, Modifier où Supprimer un livre
+- Ajouter, modifier ou supprimer un livre
 
 ## Crée avec
 
